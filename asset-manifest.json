@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.57777e1b.css",
-    "main.js": "/static/js/main.e21ea180.js",
+    "main.css": "/static/css/main.fa7875ee.css",
+    "main.js": "/static/js/main.208d8bd4.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.4ad96d11.chunk.js": "/static/js/64.4ad96d11.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -16,7 +16,10 @@
     "static/media/Portfolio_TutorialWidgets.mp4": "/static/media/Portfolio_TutorialWidgets.887b0ce487d8017f35ef.mp4",
     "static/media/Portfolio_SteamIntegratedLeaderBoard.mp4": "/static/media/Portfolio_SteamIntegratedLeaderBoard.36aa8d59c11242845df8.mp4",
     "static/media/Portfolio_Optimizations.png": "/static/media/Portfolio_Optimizations.a1739a955e12cbd9de7f.png",
+    "static/media/SteamSAL_Achievements.jpg": "/static/media/SteamSAL_Achievements.d8af3b929b44808cb1c2.jpg",
+    "static/media/SteamSAL_Header.jpg": "/static/media/SteamSAL_Header.0c17826fab40006468a4.jpg",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/SteamSAL_Leaderboards.jpg": "/static/media/SteamSAL_Leaderboards.553e180cb85e660ba8bd.jpg",
     "static/media/Portfolio_LobbySystem.mp4": "/static/media/Portfolio_LobbySystem.02c1c669fdcf65072e78.mp4",
     "static/media/resume_v1.2.pdf": "/static/media/resume_v1.2.63be49701b838985c989.pdf",
     "static/media/venitlogo.png": "/static/media/venitlogo.622777945412df6991f6.png",
@@ -36,15 +39,15 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.57777e1b.css.map": "/static/css/main.57777e1b.css.map",
-    "main.e21ea180.js.map": "/static/js/main.e21ea180.js.map",
+    "main.fa7875ee.css.map": "/static/css/main.fa7875ee.css.map",
+    "main.208d8bd4.js.map": "/static/js/main.208d8bd4.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.4ad96d11.chunk.js.map": "/static/js/64.4ad96d11.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
     "769.284690b2.chunk.js.map": "/static/js/769.284690b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57777e1b.css",
-    "static/js/main.e21ea180.js"
+    "static/css/main.fa7875ee.css",
+    "static/js/main.208d8bd4.js"
   ]
 }
